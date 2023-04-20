@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Darshan660
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning BSc in DataScience
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Coding and machine learning
+- 🌱 I have currently completed my graduation in BSc DataScience
+- 💞️ I’m looking to collaborate on various data science problems...
 - 📫 How to reach me darshankholakiya12@gmail.com
 
 <!---
