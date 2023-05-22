@@ -18,7 +18,7 @@
 # 🌐 Connect with Me
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshankholakiya/) [![Digital Portfolio](https://img.shields.io/badge/Digital%20Resume-12100E?logo=google-earth&logoColor=white)](https://darshans-resume.streamlit.app/) [![Email](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:darshankholakiya12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/darshankholakiya/) [![Digital Portfolio](https://img.shields.io/badge/Digital%20Resume-12100E.svg?logo=google-earth&logoColor=white&style=for-the-badge)](https://darshans-resume.streamlit.app/) [![Email](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge)](mailto:darshankholakiya12@gmail.com)
 
   </div>
   
