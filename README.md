@@ -1,7 +1,8 @@
 # 🌟 About Me
 👋 Hi there, I'm Darshan Kholakiya!
 
-💡 I'm a Data Science enthusiast with a strong passion for leveraging data to drive meaningful insights and solve complex problems. I have a background in BSc Data Science and a proficient skillset in Python and Tableau.
+💡 I'm a Data Science enthusiast with a strong passion for leveraging data to drive meaningful insights and solve complex problems. I 
+    have a background in BSc Data Science and a proficient skillset in Python and Tableau.
 
 🎓 Graduated in BSc Data Science, equipped with a solid foundation in data analytics and machine learning.
 
