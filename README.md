@@ -37,23 +37,17 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Darshan660&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan660&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
   
-### 📈 Activity Graph
+## 📈 Activity Graph
   
 <a href="https://github.com/Darshan660/github-readme-activity-graph"><img alt="Darshan's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Darshan660&theme=react-dark" /><a>
 
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Darshan660&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-### ✍️ Code Mantra
+## ✍️ Code Mantra
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 **PLEASE SHOW SOME ❤️ BY STARRING SOME REPOS**
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=parthgupta1208&icon=6&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=darshan660&label=Profile%20Views&color=6&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
