@@ -53,6 +53,6 @@
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=darshan660&label=Profile%20Views&color=6&pretty=true)
+![](https://visitcount.itsvg.in/api?id=Darshan660&label=Profile%20Views&color=6&icon=0&pretty=true)
 
 </div>
