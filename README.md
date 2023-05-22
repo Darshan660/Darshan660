@@ -46,7 +46,7 @@
 <a href="https://github.com/Darshan660/github-readme-activity-graph"><img alt="Darshan's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Darshan660&theme=react-dark" /><a>
 
   
-## ✍️ Code Mantra
+## ✍️ Bytes of Wisdom
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 **PLEASE SHOW SOME ❤️ BY STARRING SOME REPOS**
