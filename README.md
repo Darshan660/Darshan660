@@ -50,7 +50,7 @@
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Darshan660&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=parthgupta1208&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### ✍️ Code Mantra
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
