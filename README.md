@@ -11,13 +11,15 @@
 
 📚 Continuously expanding my knowledge in data science by exploring new concepts and staying up-to-date with industry trends.
 
+
 # 🌐 Connect with Me
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/darshankholakiya/) [![Digital Portfolio](https://img.shields.io/badge/Digital%20Resume-12100E.svg?logo=google-earth&logoColor=white&style=for-the-badge)](https://darshans-resume.streamlit.app/) [![Email](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge)](mailto:darshankholakiya12@gmail.com)
 
   </div>
-  
+ 
+ 
 # 💻 Tech Stack:
 
 <div align="center">
@@ -30,17 +32,20 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+
 # 📊 GitHub Stats:
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Darshan660&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Darshan660&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan660&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
   
 ## 📈 Activity Graph
   
 <a href="https://github.com/Darshan660/github-readme-activity-graph"><img alt="Darshan's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Darshan660&theme=react-dark" /><a>
 
+  
 ## ✍️ Code Mantra
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
