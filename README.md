@@ -36,9 +36,10 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-![]([https://github-readme-stats.vercel.app/api?username=Darshan660&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Darshan660))<br/>
-![]([https://github-readme-streak-stats.herokuapp.com/?user=Darshan660&theme=nightowl&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Darshan660&theme=nightowl&hide_border=true))<br/>
-![]([https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan660&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan660&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact))
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darshan660&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&token=<YOUR_GITHUB_TOKEN>)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Darshan660&theme=nightowl&hide_border=true&token=<YOUR_GITHUB_TOKEN>)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan660&theme=nightowl&hide_border=true&layout=compact&token=<YOUR_GITHUB_TOKEN>)
 
   
 ## 📈 Activity Graph
