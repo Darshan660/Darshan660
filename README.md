@@ -44,7 +44,7 @@
   
 ## 📈 Activity Graph
   
-<a href="https://github.com/Darshan660/github-readme-activity-graph"><img alt="Darshan's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Darshan660&theme=react-dark" /><a>
+[![](https://github-readme-activity-graph.vercel.app/graph?username=Darshan660&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   
 ## ✍️ Bytes of Wisdom
