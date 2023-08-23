@@ -16,6 +16,6 @@ jobs:
         run: |
           PAT=$(curl -H "Authorization: token ${{ secrets.VERCEL_GITHUB_TOKEN }}" https://api.github.com/user | jq -r .login)
           echo "PAT_1=${PAT}" > PAT.env
-          curl -X POST "https://api.vercel.com/v12/projects/bom1::xdpph-1692800202061-baa89293b699/env" -H "Authorization: Bearer ${{ secrets.VERCEL_GITHUB_TOKEN }}" -H "Content-Type: application/json" -d '{"key": "PAT_1", "value": "'$PAT'", "target": ["production"]}'
+          curl -X POST "https://api.vercel.com/v12/projects/prj_bweMUb7MyGc7lnv7Cg3MK1bwDokR" -H "Authorization: Bearer ${{ secrets.VERCEL_GITHUB_TOKEN }}" -H "Content-Type: application/json" -d '{"key": "PAT_1", "value": "'$PAT'", "target": ["production"]}'
         env:
           GITHUB_TOKEN: ${{ secrets.VERCEL_GITHUB_TOKEN }} # Use your secret name
