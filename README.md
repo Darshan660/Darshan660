@@ -37,9 +37,9 @@
 <div align="center">
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darshan660&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&token=<YOUR_GITHUB_TOKEN>)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Darshan660&theme=nightowl&hide_border=true&token=<YOUR_GITHUB_TOKEN>)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan660&theme=nightowl&hide_border=true&layout=compact&token=<YOUR_GITHUB_TOKEN>)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darshan660&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&token=<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>)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Darshan660&theme=nightowl&hide_border=true&token=<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>)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan660&theme=nightowl&hide_border=true&layout=compact&token=<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>)
 
   
 ## 📈 Activity Graph
